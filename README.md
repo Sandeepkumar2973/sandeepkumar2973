@@ -1,7 +1,7 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is sandeep kumar
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is SANDEEP KUMAR
 =====================================================================================================================================
 
-full stack developer
+FULL STACK DEVELOPER ( REACT,NODE,EXPRESS AND MONGODB )
 --------------------
 
 Over 3 years of experience in developing scalable web applications using the MERN stack. Proficient in integrating REST APIs, real-time features with Socket.io, and media handling via Cloudinary. Collaborated with UI/UX teams, optimized performance, and handled debugging to ensure smooth and responsive user experiences.
@@ -10,7 +10,7 @@ Over 3 years of experience in developing scalable web applications using the MER
 * 🖥️  See my portfolio at [My Portfolio](http://https://sandeepkumarportfolio.onrender.com/)
 * ✉️  You can contact me at [sandeepkumarcse49@gmail.com](mailto:sandeepkumarcse49@gmail.com)
 * 🚀  I'm currently working on [aspiration web app](http://https://aspirations.global/)
-* 🧠  I'm learning Next js and Nest js
+* 🧠  I'm learning Next js.
 * 🤝  I'm open to collaborating on Neeve.io
 * ⚡  I am a very honest .
 
